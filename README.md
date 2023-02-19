@@ -1,4 +1,7 @@
-# Grafana
+# Grafana Docker Extension with Redis Datasource
+
+<img width="1231" alt="Screenshot 2023-02-19 at 2 40 31 PM" src="https://user-images.githubusercontent.com/34368930/219939205-9c6ed376-4659-4714-942f-f3130ea9184e.png">
+
 
 This repository defines an example of a Docker extension. The files in this repository have been automatically generated as a result of running `docker extension init`.
 
